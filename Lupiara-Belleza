@@ -1,4 +1,3 @@
-index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -9,60 +8,49 @@ index.html
 <style>
 body{
 margin:0;
-font-family:Arial,Helvetica,sans-serif;
-background:#fff5f8;
-color:#444;
+font-family:Arial,sans-serif;
+background:#ffeef5;
+color:#d63384;
 text-align:center;
 }
 
 header{
-background:linear-gradient(#ffd6e5,#fff);
+background:linear-gradient(45deg,#ffc1dc,#ffdceb);
 padding:40px 20px;
 }
 
 h1{
-color:#d94b7d;
 font-size:42px;
-margin-bottom:5px;
+margin:10px 0;
 }
 
 h2{
-color:#ff5f8f;
-font-weight:normal;
-}
-
-p{
-font-size:18px;
-}
-
-.boton{
-display:inline-block;
-margin:10px;
-padding:15px 35px;
-background:#ff5f8f;
-color:white;
-text-decoration:none;
-border-radius:40px;
-font-weight:bold;
-}
-
-.seccion{
-padding:40px 20px;
+color:#ff4fa3;
 }
 
 .card{
 background:white;
-margin:15px auto;
+margin:20px;
 padding:20px;
-max-width:320px;
 border-radius:20px;
-box-shadow:0 5px 15px rgba(0,0,0,.1);
+box-shadow:0 0 15px rgba(0,0,0,.1);
+}
+
+.btn{
+display:inline-block;
+background:#ff4fa3;
+color:white;
+padding:15px 30px;
+border-radius:30px;
+text-decoration:none;
+font-weight:bold;
+margin-top:20px;
 }
 
 footer{
-background:#ffd6e5;
-padding:30px;
-margin-top:30px;
+background:#ffb6d9;
+padding:20px;
+margin-top:40px;
 }
 </style>
 
@@ -72,47 +60,39 @@ margin-top:30px;
 
 <header>
 
-<h1>🌸 Lupiara Beauty 🌸</h1>
+<h1>💖 Lupiara Beauty 💖</h1>
 
-<h2>Makeup & Glow</h2>
+<p>Makeup & Glow</p>
 
-<p>Todo lo que necesitás para verte hermosa en un solo lugar.</p>
-
-<a class="boton" href="#">Comprar Ahora</a>
-
-<a class="boton" href="https://wa.me/5492644150598">WhatsApp</a>
+<a class="btn" href="https://wa.me/542645600934">Comprar por WhatsApp</a>
 
 </header>
 
-<section class="seccion">
-
-<h2>¿Qué ofrecemos?</h2>
-
 <div class="card">
-💄 Maquillaje
+<h2>💄 Productos</h2>
+
+<p>Skincare</p>
+<p>Maquillaje</p>
+<p>Accesorios Beauty</p>
+
 </div>
 
 <div class="card">
-🌸 Skincare
+
+<h2>🎁 Combos</h2>
+
+<p>✨ Combos Skincare</p>
+
+<p>💋 Combos Maquillaje</p>
+
+<p>💕 Combos Emprendedores (25 y 30 productos)</p>
+
 </div>
 
 <div class="card">
-🎁 Combos Emprendedores
-</div>
 
-<div class="card">
-✨ Productos Originales
-</div>
+<h2>💳 Pagos</h2>
 
-</section>
+<p>Mercado Pago</p>
 
-<section class="seccion">
-
-<h2>Medios de Pago</h2>
-
-<p>
-💳 Mercado Pago<br>
-🏦 Transferencia<br>
-💳 Naranja<br>
-🏛️ Bancos
-</p>
+<p>Transferencias</p>
