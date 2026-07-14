@@ -1,0 +1,118 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lupiara Beauty</title>
+
+<style>
+body{
+margin:0;
+font-family:Arial,Helvetica,sans-serif;
+background:#fff5f8;
+color:#444;
+text-align:center;
+}
+
+header{
+background:linear-gradient(#ffd6e5,#fff);
+padding:40px 20px;
+}
+
+h1{
+color:#d94b7d;
+font-size:42px;
+margin-bottom:5px;
+}
+
+h2{
+color:#ff5f8f;
+font-weight:normal;
+}
+
+p{
+font-size:18px;
+}
+
+.boton{
+display:inline-block;
+margin:10px;
+padding:15px 35px;
+background:#ff5f8f;
+color:white;
+text-decoration:none;
+border-radius:40px;
+font-weight:bold;
+}
+
+.seccion{
+padding:40px 20px;
+}
+
+.card{
+background:white;
+margin:15px auto;
+padding:20px;
+max-width:320px;
+border-radius:20px;
+box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+footer{
+background:#ffd6e5;
+padding:30px;
+margin-top:30px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>🌸 Lupiara Beauty 🌸</h1>
+
+<h2>Makeup & Glow</h2>
+
+<p>Todo lo que necesitás para verte hermosa en un solo lugar.</p>
+
+<a class="boton" href="#">Comprar Ahora</a>
+
+<a class="boton" href="https://wa.me/5492644150598">WhatsApp</a>
+
+</header>
+
+<section class="seccion">
+
+<h2>¿Qué ofrecemos?</h2>
+
+<div class="card">
+💄 Maquillaje
+</div>
+
+<div class="card">
+🌸 Skincare
+</div>
+
+<div class="card">
+🎁 Combos Emprendedores
+</div>
+
+<div class="card">
+✨ Productos Originales
+</div>
+
+</section>
+
+<section class="seccion">
+
+<h2>Medios de Pago</h2>
+
+<p>
+💳 Mercado Pago<br>
+🏦 Transferencia<br>
+💳 Naranja<br>
+🏛️ Bancos
+</p>
