@@ -52,7 +52,11 @@ background:#ffb6d9;
 padding:20px;
 margin-top:40px;
 }
-</style>
+img{
+    width:220px;
+    border-radius:20px;
+    margin-bottom:20px;
+}</style>
 
 </head>
 
